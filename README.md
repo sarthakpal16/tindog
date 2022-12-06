@@ -1,1 +1,5 @@
-TinDog Starting Files
+#TinDog 
+
+Responsive homepage design. 
+
+
